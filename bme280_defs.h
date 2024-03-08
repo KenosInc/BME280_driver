@@ -39,6 +39,8 @@
 #ifndef _BME280_DEFS_H
 #define _BME280_DEFS_H
 
+#define BME280_32BIT_ENABLE
+
 /********************************************************/
 /* header includes */
 #ifdef __KERNEL__
